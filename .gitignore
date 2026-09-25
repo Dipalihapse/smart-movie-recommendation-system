@@ -1,0 +1,19 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Anaconda
+anaconda_projects/
+
+# VS Code
+.vscode/
+
+# MovieLens dataset
+data/*.txt
