@@ -1,27 +1,27 @@
-# 🎬 Smart Movie Recommendation and Discovery System
+# Smart Movie Recommendation and Discovery System
 
 A machine learning based movie recommendation and discovery system built using the MovieLens dataset.
 
-## 📌 Project Overview
+##  Project Overview
 
 This project analyzes movie ratings and genres to build a movie recommendation system. It provides movie recommendations based on movie similarity and also provides mood-based movie recommendations.
 
 The project combines data analysis, feature engineering, and machine learning techniques to explore movie preferences and recommend relevant movies.
 
-## ✨ Features
+##  Features
 
-* 📊 Movie rating analysis
-* 🎭 Genre analysis
-* ⭐ Movie rating and popularity analysis
-* 💎 Hidden gem movie identification
-* 🎬 Movie-to-movie recommendations
-* 😊 Mood-based movie recommendations
-* 🔍 Content-based filtering
-* 📐 TF-IDF feature extraction
-* 🔗 Cosine similarity for finding similar movies
-* 🛡️ Handles invalid movie names and moods
+*  Movie rating analysis
+*  Genre analysis
+*  Movie rating and popularity analysis
+*  Hidden gem movie identification
+*  Movie-to-movie recommendations
+*  Mood-based movie recommendations
+*  Content-based filtering
+*  TF-IDF feature extraction
+*  Cosine similarity for finding similar movies
+*  Handles invalid movie names and moods
 
-## 🧠 Recommendation Methods
+##  Recommendation Methods
 
 ### 1. Content-Based Movie Recommendation
 
@@ -63,7 +63,7 @@ Output:
 Movies from Comedy and Animation genres
 ```
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python
 * Pandas
@@ -73,7 +73,7 @@ Movies from Comedy and Animation genres
 * Jupyter Notebook
 * MovieLens Dataset
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 movies_project/
@@ -88,7 +88,7 @@ movies_project/
 └── .gitignore
 ```
 
-## 📊 Data Analysis
+##  Data Analysis
 
 The project performs analysis on:
 
@@ -99,7 +99,7 @@ The project performs analysis on:
 * Popular movies
 * Hidden gems
 
-## 🔧 How It Works
+##  How It Works
 
 ```text
 MovieLens Dataset
@@ -123,7 +123,7 @@ Movie Recommendation
 Mood-Based Recommendation
 ```
 
-## 🚀 How to Run
+##  How to Run
 
 ### 1. Clone the repository
 
@@ -157,13 +157,13 @@ movielens_dataset.ipynb
 
 Run the notebook cells in order.
 
-## 📚 Dataset
+##  Dataset
 
 This project uses the **MovieLens dataset** containing movie information, user information, genres, and ratings.
 
 The dataset is used for educational and machine learning purposes.
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 
 Through this project, I learned how to:
 
@@ -178,7 +178,7 @@ Through this project, I learned how to:
 * Handle invalid user inputs
 * Organize and document a machine learning project
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 * Add a Streamlit web interface
 * Add user-based recommendations
@@ -187,10 +187,3 @@ Through this project, I learned how to:
 * Add recommendation evaluation metrics
 * Allow users to create personalized movie profiles
 
-## 👩‍💻 Author
-
-**Dipali Hapse**
-
-GitHub: [Add your GitHub profile link here]
-
-LinkedIn: [Add your LinkedIn profile link here]
